@@ -1,11 +1,17 @@
 # VCU CODE
-###VIRGINIA COMMONWEALTH UNIVERSITY
-###SHOOL OF ENGINEERING
-###DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING
+    VIRGINIA COMMONWEALTH UNIVERSITY
+    SCHOOL OF ENGINEERING
+    DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING
 
-The directories included in this folder contain the code completed to fulfill the coursework requirements while
-attending Virginia Commonwealth University School of Engineering in Richmond, VA for the courses detailed beneath
-the listed folder names below.
+######LAB
+    CONTAINS THE CODE FOR THE ASSIGNMENTS COMPLETED DURING THE WEEKLY LABORATORY SESSIONS REQUIRED IN THE SPRING 2015
+    COURSE SEMESTER WHILE ENROLLED IN THE EGRE 245: ENGINEERING PROGRAMMING USING C COURSE WHILE STUDYING ELECTRICAL
+    AND COMPUTER ENGINEERING AT VIRGINIA COMMONWEALTH UNIVERSITY (VCU) SCHOOL OF ENGINEERING IN RICHMOND, VA.
+
+######DIRECTORY DETAILS
+    The directories included in this folder contain the code completed to fulfill the coursework requirements while
+    attending Virginia Commonwealth University School of Engineering in Richmond, VA for the courses detailed beneath
+    the listed folder names below.
 
 ######EGRE245
     SCHOOL:           VIRGINIA COMMONWEALTH UNIVERSITY (VCU)
