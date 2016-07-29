@@ -5,15 +5,15 @@
     DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING
     SPRING 2015
 
-######EGRE245 - ENGINEERING PROGRAMMING USING C
-     3 LECTURE HOURS AND 3 LABORATORY HOURS
-     4 CREDIT HOURS
-     Introduction to the concepts and practice of structured programming using C.
-     Problem-solving, top-down design of algorithms, basic C syntax, control structures, functions, arrays, files and strings.
+    EGRE245 - ENGINEERING PROGRAMMING USING C
+    3 LECTURE HOURS AND 3 LABORATORY HOURS
+    4 CREDIT HOURS
+    Introduction to the concepts and practice of structured programming using C.
+    Problem-solving, top-down design of algorithms, basic C syntax, control structures, functions, arrays, files and strings.
 
 
 ######DIRECTORY DETAILS
-     THE DETAILS FOR THE CONTENTS CONTAINED WITHIN THE DIRECTORIES LISTED WITHIN THIS CURRENT FOLDER ARE AS DETAILED BELOW
+    THE DETAILS FOR THE CONTENTS CONTAINED WITHIN THE DIRECTORIES LISTED WITHIN THIS CURRENT FOLDER ARE AS DETAILED BELOW
 
 ######LAB
     CONTAINS THE CODE FOR THE ASSIGNMENTS COMPLETED DURING THE WEEKLY LABORATORY SESSIONS REQUIRED IN THE SPRING 2015
