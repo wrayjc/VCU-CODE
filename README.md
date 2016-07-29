@@ -4,9 +4,9 @@
     DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING
 
 ######DIRECTORY DETAILS
-    The directories included in this folder contain the code completed to fulfill the coursework requirements while
-    attending Virginia Commonwealth University School of Engineering in Richmond, VA for the courses detailed beneath
-    the listed folder names below.
+    The directories included in this folder contains the code completed to fulfill the coursework 
+    requirements while attending Virginia Commonwealth University School of Engineering 
+    in Richmond, VA for the courses detailed beneath the listed folder names below.
 
 ######EGRE245
     SCHOOL:           VIRGINIA COMMONWEALTH UNIVERSITY (VCU)
