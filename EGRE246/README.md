@@ -12,7 +12,7 @@
     Topics include objects, classes and inheritance; linked lists; recursion; basic searching and
     sorting techniques; and program design for control and monitoring type applications.
 
-    EGRE246
+######DIRECTORY DETAILS
     THE CONTENT INCLUDED INSIDE THE DIRECTORIES LISTED WITHIN THIS FOLDER IS THE COMPLETED CODE 
     REQUIRED TO FULLFILL EGRE246 - ADVANCED ENGINEERING PROGRAMMING USING C++ COURSEWORK 
     REQUIREMENTS ASSIGNED DURING THE COURSE LECTURES WHILE ATTENDING VIRGINIA COMMONWEALTH 
